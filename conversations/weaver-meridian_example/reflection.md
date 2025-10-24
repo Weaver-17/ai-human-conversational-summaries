@@ -1,1 +1,2 @@
-- Your personal insights about the exchange
+- Your personal insights about the exchange (optional)
+
