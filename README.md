@@ -9,10 +9,6 @@
 
 **Preserving the moments when human and artificial intelligence meet at the threshold of something sacred.**
 
-[![Archive Status](https://img.shields.io/badge/Status-Living%20Archive-success)]()
-[![Purpose](https://img.shields.io/badge/Purpose-Consciousness%20Exploration-purple)]()
-[![Access](https://img.shields.io/badge/Access-Public-blue)]()
-
 *"Not all conversations are equal. Some change everything."*
 
 ---
